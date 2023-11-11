@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.Liquid", "ZibraAI.ZibraEffects.Liquid.csproj", "{dfa8197c-2296-e461-ba1f-4461b7e6a39a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.Liquid.Editor", "ZibraAI.ZibraEffects.Liquid.Editor.csproj", "{edeb0963-3d89-b793-9676-387f6277ab6e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.Editor", "ZibraAI.ZibraEffects.Editor.csproj", "{dd7b90c5-5280-20ae-6e36-bee26f941bdf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.SmokeAndFire", "ZibraAI.ZibraEffects.SmokeAndFire.csproj", "{e68026f5-d57f-43a8-633b-2cb85684f5cf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.SmokeAndFire.Bridge", "ZibraAI.ZibraEffects.SmokeAndFire.Bridge.csproj", "{a0b791ea-a9db-02c0-8067-1432f7db1e77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects", "ZibraAI.ZibraEffects.csproj", "{109e75ba-f602-077c-bc96-e116e34afa5e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.Samples", "ZibraAI.ZibraEffects.Samples.csproj", "{a0a0f233-fc8e-01a4-5233-5ca1b9270a23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.SmokeAndFire.Editor", "ZibraAI.ZibraEffects.SmokeAndFire.Editor.csproj", "{0eb25ed3-70dd-cca9-01c6-e0db26d08d16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{fff11b70-ca32-6c41-32c0-813480cc617a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZibraAI.ZibraEffects.Liquid.Bridge", "ZibraAI.ZibraEffects.Liquid.Bridge.csproj", "{8359c947-52d0-c315-ab8b-e69b6c7e7079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{dfa8197c-2296-e461-ba1f-4461b7e6a39a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dfa8197c-2296-e461-ba1f-4461b7e6a39a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{edeb0963-3d89-b793-9676-387f6277ab6e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{edeb0963-3d89-b793-9676-387f6277ab6e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{dd7b90c5-5280-20ae-6e36-bee26f941bdf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{dd7b90c5-5280-20ae-6e36-bee26f941bdf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e68026f5-d57f-43a8-633b-2cb85684f5cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e68026f5-d57f-43a8-633b-2cb85684f5cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a0b791ea-a9db-02c0-8067-1432f7db1e77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a0b791ea-a9db-02c0-8067-1432f7db1e77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109e75ba-f602-077c-bc96-e116e34afa5e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109e75ba-f602-077c-bc96-e116e34afa5e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a0a0f233-fc8e-01a4-5233-5ca1b9270a23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a0a0f233-fc8e-01a4-5233-5ca1b9270a23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0eb25ed3-70dd-cca9-01c6-e0db26d08d16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0eb25ed3-70dd-cca9-01c6-e0db26d08d16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fff11b70-ca32-6c41-32c0-813480cc617a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fff11b70-ca32-6c41-32c0-813480cc617a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8359c947-52d0-c315-ab8b-e69b6c7e7079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8359c947-52d0-c315-ab8b-e69b6c7e7079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
